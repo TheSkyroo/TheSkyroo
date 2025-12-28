@@ -52,7 +52,7 @@ const ishant = {
     "UI/UX"
   ],
  hobbies: ["Coding", "Gym", "Video Editing", "Writing", "Reading"],
-  challenge: "Currently improving backend skills and system design"
+ challenge: "Currently improving backend skills and system design"
 }
 ```
 
