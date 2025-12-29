@@ -157,12 +157,24 @@ const ishant = {
 
 ###
 
-### 📊 GitHub States
+
+<h2 boder="0" align="center"> 📊 GitHub States</h2>
 <p align="center">
-<a href="https://github.com/TheSkyroo"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=TheSkyroo&limit=5&theme=dark&combine_all_yearly_contributions=true" /><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheSkyroo" alt="GitHub Streak" /></a>
- </a></p>
+  <a href="https://github.com/TheSkyroo">
+    <img width="35%" style="margin-right: 12px;"
+      src="https://github-contributor-stats.vercel.app/api?username=TheSkyroo&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  </a>
+
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=TheSkyroo"
+      alt="GitHub Streak" />
+  </a>
+</p>
+
+
 <p align="center">
-<a href="https://github.com/Mnkubusb">
+<a href="https://github.com/TheSkyroo">
 <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSkyroo&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheSkyroo&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
