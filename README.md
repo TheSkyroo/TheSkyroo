@@ -70,26 +70,7 @@ const ishant = {
       </a>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2 boder="0" align="center">  My Favorite Tools And Technologies</h2>
-
-
-
 
 ###
 
