@@ -135,18 +135,18 @@ const ishant = {
 </p> -->
 
  <!-- most used language-->
-<p >
+<span >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkyroo&layout=compact&theme=tokyonight" />
-</p>
+</span>
 
 
 
-<p>
+<span>
 <a href="https://github.com/TheSkyroo">
 <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSkyroo&theme=dark" />
  <!-- <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheSkyroo&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" /> -->
   </a>
-</p>
+</span>
 
 
 <!-- Contribution PacMan -->
