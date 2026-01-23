@@ -134,6 +134,8 @@ const ishant = {
   </a>
 </p> -->
 
+<div align="center">
+
  <!-- most used language-->
 <span >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkyroo&layout=compact&theme=tokyonight" />
@@ -147,6 +149,7 @@ const ishant = {
  <!-- <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheSkyroo&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" /> -->
   </a>
 </span>
+</div>
 
 
 <!-- Contribution PacMan -->
