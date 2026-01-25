@@ -2,7 +2,7 @@
  <tr>
     <td>
       <br> 
-     br
+    
      <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+I'm+Ishant+Sinha" alt="Typing SVG" />
      <img width="150" align="center" src="https://komarev.com/ghpvc/?username=TheSkyroo&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="TheSkyroo"/>
       <br>
