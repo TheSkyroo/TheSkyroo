@@ -120,7 +120,7 @@ const ishant = {
 
 ###
 
-<h2 boder="0" align="center"> 📊 GitHub States</h2>
+<h2 boder="0" align="center">  GitHub States</h2>
 <!-- <p align="center">
   <a href="https://github.com/TheSkyroo">
     <img width="35%" style="margin-right: 12;"
