@@ -121,7 +121,9 @@ const ishant = {
 ###
 
 <h2 boder="0" align="center">  GitHub States</h2>
-<!-- <p align="center">
+
+
+<p align="center">
   <a href="https://github.com/TheSkyroo">
     <img width="35%" style="margin-right: 12;"
       src="https://github-contributor-stats.vercel.app/api?username=TheSkyroo&limit=5&theme=dark&combine_all_yearly_contributions=true" />
@@ -132,11 +134,17 @@ const ishant = {
       src="https://github-readme-streak-stats.herokuapp.com?user=TheSkyroo"
       alt="GitHub Streak" />
   </a>
-</p> -->
+  
+ <!--
+  hwdhjas -->
+
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+</p> 
 
 <div align="center">
 
  <!-- most used language-->
+
 <span >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkyroo&layout=compact&theme=dark" />
 </span>
