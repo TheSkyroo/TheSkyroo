@@ -144,7 +144,7 @@ const ishant = {
 
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=TheSkyroo)](https://git.io/streak-stats)
+
 
 <span>
 <a href="https://github.com/TheSkyroo">
