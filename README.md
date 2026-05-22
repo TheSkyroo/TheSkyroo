@@ -125,7 +125,7 @@ const ishant = {
 <h2 boder="0" align="center">  GitHub States</h2>
 <!-- streak -->
 <div align="center">
- </a><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=TheSkyroo&theme=dark" alt="GitHub Streak" /></a>
+ <!-- </a><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=TheSkyroo&theme=dark" alt="GitHub Streak" /></a> -->
 <div align="center">
 <a href="https://github.com/TheSkyroo">
 <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheSkyroo&theme=dark" />
