@@ -4,7 +4,6 @@
       <br>     
      <div align="center"> 
      <p ><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&width=435&lines=Hi+There!+I'm+Ishant+Sinha+/+Batman" alt="Typing SVG" />
-     <img width="150" src="https://komarev.com/ghpvc/?username=TheSkyroo&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="TheSkyroo"/>
       <br>
       <img width="280"  alt="yes i am batman" src="https://github-widgetbox.vercel.app/api/profile?username=TheSkyroo&data=followers,repositories,stars,commits&theme=viridescent"/>
       <div/>
